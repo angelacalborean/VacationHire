@@ -1,0 +1,1 @@
+"C:\jmeter\apache-jmeter\bin\jmeter.bat" -Jpassword=DummyPassword

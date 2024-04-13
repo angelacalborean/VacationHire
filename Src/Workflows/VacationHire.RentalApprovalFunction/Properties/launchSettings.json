@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "VacationHire.RentalApprovalFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7100"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31455,
+      "useSSL": false
+    }
+  }
+}
