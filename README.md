@@ -26,10 +26,7 @@ All the REST API documentation is available in the Swagger UI.
 From technical perspective, the solution is divided in 3 REST API projects, that can be deployed independently and that share the same database.
 Each project deals with a different aspect of the business and should access the database using different roles based on their needs.
 
-
-
-
-
+![Architecture]([image link](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20Physical%20Architecture.png))
 
 ## Administrative API Reference
 
