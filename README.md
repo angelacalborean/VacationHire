@@ -26,7 +26,18 @@ All the REST API documentation is available in the Swagger UI.
 From technical perspective, the solution is divided in 3 REST API projects, that can be deployed independently and that share the same database.
 Each project deals with a different aspect of the business and should access the database using different roles based on their needs.
 
-![Architecture]([image link](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20Physical%20Architecture.png))
+### System architecture
+[Architecture](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20Physical%20Architecture.png)
+
+### Rental process
+Logged in user wants to rent an item
+[Initating rental process](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20Initiating%20Rental.png)
+
+Checking and processing a rental
+[Rental processing](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20Processing%20rental.png)
+
+Return process
+[Return process](https://github.com/angelacalborean/VacationHire/blob/main/Documentation/Vacation%20Hire%20-%20User%20returns%20car.png)
 
 ## Administrative API Reference
 
